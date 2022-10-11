@@ -6,7 +6,7 @@
 </head>
 <?php
 
-echo "hola 2";
+echo "hola 4";
 
 
 ?>
